@@ -4,4 +4,4 @@ are u in a doubt of a spam message received in your mail box  check out my lates
 ![starting page](images/scr1.png)
 
 ## Screenshot 2
-![result page](images/scr2.jpg)
+![result page](images/scr2.png)
